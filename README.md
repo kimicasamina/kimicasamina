@@ -1,4 +1,4 @@
-<a href="https://kimberlycasamina.onrender.com/" >
+<!-- <a href="https://kimberlycasamina.onrender.com/" >
 <img alt="portfolio" title="Portfolio" src="https://img.shields.io/badge/Website-kimberlycasamina-orange?logo=aboutdotme"/>
 </a>
 
@@ -11,12 +11,14 @@
 ---
 
 <br>
+# ABOUT ME -->
 
 ```javascript
 const about_me = {
   name: "Kimberly Casamina",
   description: "Aspiring Software Developer",
-  current_location: "Laguna, Ph",
+  email: "kimi.casamina@gmail.com",
+  website: "kimberlycasamina.onrender.com/",
   characteristics: {
     sugar: "medium",
     spice: "medium",
