@@ -1,3 +1,11 @@
+<a href="https://kimberlycasamina.onrender.com/" >
+<img alt="portfolio" title="Portfolio" src="https://img.shields.io/badge/Website-kimberlycasamina-orange?logo=aboutdotme"/>
+</a>
+
+<a href="https://kimberlycasamina.onrender.com/">
+    <img alt="portfolio" title="Portfolio" src="https://img.shields.io/badge/Email-kimi.casamina@gmail.com-green?logo=gmail"/>
+</a>
+
 ```javascript
 const about_me = {
   name: "Kimberly Casamina",
@@ -92,11 +100,3 @@ const about_me = {
   },
 };
 ```
-
-<a href="https://kimberlycasamina.onrender.com/" >
-<img alt="portfolio" title="Portfolio" src="https://img.shields.io/badge/Website-kimberlycasamina-orange?logo=aboutdotme"/>
-</a>
-
-<a href="https://kimberlycasamina.onrender.com/">
-    <img alt="portfolio" title="Portfolio" src="https://img.shields.io/badge/Email-kimi.casamina@gmail.com-green?logo=gmail"/>
-</a>
