@@ -79,6 +79,11 @@ const about_me = {
       },
     },
   ],
+  list_of_activities: [
+    "sitting on the bus",
+    "sitting on the sofa bed",
+    "shower",
+  ],
   education: ["Self-taught Developer", "Associate in Computer Technology"],
   career_history: ["Frontend Developer"],
   skills: {
@@ -95,7 +100,16 @@ const about_me = {
       "mongodb",
     ],
     can_use: ["php", "laravel", "mysql", "ejs", "nextjs", "graphql"],
-    tools: ["git", "github", "vscode", "postman", "npm", "composer", "figma"],
+    tools: [
+      "git",
+      "github",
+      "vscode",
+      "postman",
+      "npm",
+      "bash",
+      "composer",
+      "figma",
+    ],
     others: [
       "Data Structures & Algorithms",
       "RESTful API",
