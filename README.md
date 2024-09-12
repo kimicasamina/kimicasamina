@@ -3,8 +3,14 @@
 </a>
 
 <a href="https://kimberlycasamina.onrender.com/">
-    <img alt="portfolio" title="Portfolio" src="https://img.shields.io/badge/Email-kimi.casamina@gmail.com-green?logo=gmail"/>
+    <img alt="email" title="Email" src="https://img.shields.io/badge/Email-kimi.casamina@gmail.com-green?logo=gmail"/>
 </a>
+
+<br>
+
+---
+
+<br>
 
 ```javascript
 const about_me = {
