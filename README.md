@@ -16,7 +16,7 @@
 ```javascript
 const about_me = {
   name: "Kimberly Casamina",
-  description: "Aspiring Software Developer",
+  description: "An aspiring software developer with a passion for creating innovative and efficient solutions for complex problem.",
   email: "kimi.casamina@gmail.com",
   website: "kimberlycasamina.onrender.com/",
   characteristics: {
