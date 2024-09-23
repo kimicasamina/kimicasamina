@@ -86,7 +86,7 @@ const about_me = {
   education: ["Self-taught Developer", "Associate in Computer Technology"],
   career_history: ["Frontend Developer"],
   skills: {
-    proficient_in: [
+    preffered_stack: [
       "html",
       "css",
       "javascript",
@@ -114,7 +114,7 @@ const about_me = {
       "RESTful API",
       "Responsive Web Design",
       "Database Design",
-      "Third-party library Integration",
+      "Third-party services Integration",
       "Authentication & Authorization",
       "Encryption & Data Security",
     ],
