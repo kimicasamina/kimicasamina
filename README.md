@@ -32,7 +32,7 @@ const about_me = {
       this.hunger += modifier;
       return `Cleanliness is increased by ${modifier}`;
     },
-  sleep_on_the_sofa: function () {
+    sleep_on_the_sofa: function () {
       const modifier = 3.5;
       this.sobriety += modifier;
       return `Sobriety is increased by ${modifier}`;
