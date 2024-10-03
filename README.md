@@ -18,7 +18,7 @@ const about_me = {
   name: "Kimberly Casamina",
   email: "kimi.casamina@gmail.com",
   portfolio: "kimberlycasamina.onrender.com/",
-  characteristics: {
+  attributes: {
     sobriety: 50,
     hunger: 50,
     cleanliness: 50,
@@ -41,25 +41,25 @@ const about_me = {
   whats_in_my_bag: [
     {
       shirts: {
-        description: "plain",
+        description: "plain and graphic tees folded in a marie kondo way",
         quantity: 5,
         quality: "very clean",
-        brand: ["bench", "generic brand"],
+        brand: ["bench"],
       },
     },
     {
       pants: {
-        description: "worn out",
+        description: "washed out jeans",
         quantity: 4,
-        quality: "in very good condition",
-        brand: ["zara", "generic brand"],
+        quality: "ok",
+        brand: ["zara"],
       },
     },
     {
       shoes: {
         description: "plain white shoes",
         quantity: 1,
-        quality: "extinct",
+        quality: "still kicking",
         brand: ["puma"],
       },
     },
