@@ -19,19 +19,9 @@ const about_me = {
   email: "kimi.casamina@gmail.com",
   website: "kimberlycasamina.onrender.com/",
   characteristics: {
-    sugar: "medium",
-    spice: "medium",
-    and_everything_nice: "high",
     sobriety: 50,
     hunger: 50,
     cleanliness: 50,
-    get_current_characteristics: function () {
-      const mssg = `
-          Hunger Level: ${this.hunger},
-          Cleanliness Level: ${this.cleanliness}
-        `;
-      return mssg;
-    },
     eat: function () {
       const modifier = 3.5;
       this.hunger -= modifier;
@@ -41,6 +31,11 @@ const about_me = {
       const modifier = 3.5;
       this.hunger += modifier;
       return `Cleanliness is increased by ${modifier}`;
+    },
+  sleep_on_the_sofa: function () {
+      const modifier = 3.5;
+      this.sobriety += modifier;
+      return `Sobriety is increased by ${modifier}`;
     },
   },
   whats_in_my_bag: [
@@ -98,8 +93,8 @@ const about_me = {
       "express",
       "mongodb",
     ],
-    can_use: ["php", "laravel", "mysql", "ejs", "nextjs", "graphql"],
-    tools: [
+    can_use: ["php", "laravel", "mysql", "python", "django", "nextjs", "graphql", "jest"],
+    dev_tools: [
       "git",
       "github",
       "vscode",
@@ -107,6 +102,7 @@ const about_me = {
       "npm",
       "bash",
       "composer",
+      "vite",
       "figma",
     ],
     others: [
