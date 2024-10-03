@@ -17,7 +17,7 @@
 const about_me = {
   name: "Kimberly Casamina",
   email: "kimi.casamina@gmail.com",
-  website: "kimberlycasamina.onrender.com/",
+  portfolio: "kimberlycasamina.onrender.com/",
   characteristics: {
     sobriety: 50,
     hunger: 50,
