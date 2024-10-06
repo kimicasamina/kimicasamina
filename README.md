@@ -103,6 +103,7 @@ const about_me = {
       "bash",
       "composer",
       "vite",
+      "pip",
       "figma",
     ],
     others: [
