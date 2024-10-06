@@ -93,7 +93,7 @@ const about_me = {
       "express",
       "mongodb",
     ],
-    can_use: ["php", "laravel", "mysql", "python", "django", "nextjs", "graphql", "jest"],
+    can_use: ["php", "laravel", "mysql", "postgresql", "python", "django", "nextjs", "graphql", "jest"],
     dev_tools: [
       "git",
       "github",
