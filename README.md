@@ -59,7 +59,7 @@ const about_me = {
       shoes: {
         description: "plain white shoes",
         quantity: 1,
-        quality: "still kicking",
+        quality: "good",
         brand: ["puma"],
       },
     },
