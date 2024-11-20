@@ -21,22 +21,7 @@ const about_me = {
   attributes: {
     sobriety: 50,
     hunger: 50,
-    cleanliness: 50,
-    eat: function () {
-      const modifier = 3.5;
-      this.hunger -= modifier;
-      return `Hunger is decreased by ${modifier}`;
-    },
-    shower: function () {
-      const modifier = 3.5;
-      this.hunger += modifier;
-      return `Cleanliness is increased by ${modifier}`;
-    },
-    sleep_on_the_sofa: function () {
-      const modifier = 3.5;
-      this.sobriety += modifier;
-      return `Sobriety is increased by ${modifier}`;
-    },
+    cleanliness: 50
   },
   whats_in_my_bag: [
     {
@@ -93,7 +78,7 @@ const about_me = {
       "express",
       "mongodb",
     ],
-    can_use: ["php", "laravel", "mysql", "postgresql", "python", "django", "nextjs", "graphql", "jest"],
+    can_use: ["php", "laravel", "mysql", "postgresql", "python", "django", "nextjs", "sequelize", "graphql", "jest"],
     dev_tools: [
       "git",
       "github",
