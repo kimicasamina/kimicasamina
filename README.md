@@ -18,78 +18,15 @@ const about_me = {
   name: "Kimberly Casamina",
   email: "kimi.casamina@gmail.com",
   portfolio: "kimberlycasamina.onrender.com/",
-  attributes: {
-    sobriety: 50,
-    hunger: 50,
-    cleanliness: 50
-  },
-  whats_in_my_bag: [
-    {
-      shirts: {
-        description: "plain and graphic tees folded in a marie kondo way",
-        quantity: 5,
-        quality: "very clean",
-        brand: ["bench"],
-      },
-    },
-    {
-      pants: {
-        description: "washed out jeans",
-        quantity: 4,
-        quality: "ok",
-        brand: ["zara"],
-      },
-    },
-    {
-      shoes: {
-        description: "plain white shoes",
-        quantity: 1,
-        quality: "good",
-        brand: ["puma"],
-      },
-    },
-    {
-      laptop: {
-        description:
-          "small, portable, 11 inches laptop powered by intel quad core with a 2.4 ghz clock speed and 4 gb of ram",
-        quantity: 1,
-        quality: "good",
-        brand: ["acer"],
-      },
-    },
-  ],
-  list_of_activities: [
-    "sitting on the bus",
-    "sitting on the sofa bed",
-    "shower",
-  ],
-  education: ["Self-taught Developer", "Associate in Computer Technology"],
-  career_history: ["Frontend Developer"],
   skills: {
-    preffered_stack: [
-      "html",
-      "css",
-      "javascript",
-      "react",
-      "tailwindcss",
-      "sass",
-      "nodejs",
-      "mongoose",
-      "express",
-      "mongodb",
+    frontend: [
+        "HTML", "CSS", "javascript", "reactjs", "tailwindcss", "sass", "ejs"
     ],
-    can_use: ["php", "laravel", "mysql", "postgresql", "python", "django", "nextjs", "sequelize", "graphql", "jest"],
+    backend: [
+        "nodejs", "expressjs", "django", "laravel", "MongoDB", "PostgreSQL", "MySQL", "sequelize"
+    ],
     dev_tools: [
-      "git",
-      "github",
-      "vscode",
-      "postman",
-      "npm",
-      "bash",
-      "composer",
-      "vite",
-      "pip",
-      "figma",
+        "typescript", "jest", "nextjs", "git", "github", "webpack", "babel", "postman"
     ],
     others: [
       "Data Structures & Algorithms",
