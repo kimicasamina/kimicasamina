@@ -1,6 +1,6 @@
 # Hi, I'm Kim 👋
 
-I'm a **Full-Stack Developer** with a passion for writing clean, and maintainable code.
+I'm a **Full-Stack Developer** passionate about writing clean and maintainable code.
 
 ## 🚀 Technologies & Tools
 
@@ -13,20 +13,21 @@ I'm a **Full-Stack Developer** with a passion for writing clean, and maintainabl
 
 ### Frontend
 - **React.js** – Dynamic UIs
-- **TailwindCSS** – Utility-first styling
+- **TailwindCSS** – Utility-first CSS for rapid UI development
 - **HTML**, **EJS**, **CSS**, **Sass** – Responsive web pages
 
 ### Tools & Deployment
-- **Webpack**, **Babel** – Optimizing code
+- **Webpack**, **Babel** –  Optimizing and transpiling code
 - **Git** – Version control
 - **Postman** – API testing
 - **Jest** – Testing
 - **Render.com**, **Vercel** – Hosting
 
 ## 🛠 What I Do
-- Build secure, scalable backend APIs
+- Build secure, scalable backend APIs 
 - Develop full-stack web applications with **React.js** and various backend technologies
-- Create static pages with **HTML**, **EJS**, **CSS**, and **Sass**
+- Create responsive and well-structured static web pages with **HTML**, **EJS**, **CSS**, and **Sass**
+- Follow best practices in coding, testing, and deployment to ensure high-quality, maintainable software.
 
 ## 💻 Projects
 Here are a few projects I’ve worked on:
