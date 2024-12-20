@@ -1,6 +1,6 @@
 # Hi, I'm Kim 👋
 
-I'm a **Full-Stack Developer** passionate about writing clean and maintainable code.
+I'm a **Full-Stack Developer** with a passion for writing clean and maintainable code.
 
 ## 🚀 Technologies & Tools
 
