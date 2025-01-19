@@ -35,10 +35,6 @@ Here are a few projects I’ve worked on:
   Tech Stack: **Node.js**, **MongoDB**, **React.js**, **Tailwindcss**  
   - [GitHub Repo](https://github.com/kimicasamina/Get-To-Work-Mongodb-Express-React-Nodejs) | [Live Demo](https://gettowork.onrender.com/)
 
-- **Day 1** – A habit tracker app that helps users build and track their habits.  
-   Tech Stack: **Node.js**, **MongoDB**, **React.js**, **Tailwindcss**    
-  - [GitHub Repo](https://github.com/kimicasamina/day1) | [Live Demo](https://day1-habit-tracker.onrender.com/)
-
 - **Passthesalt** –  A password manager app designed to securely store and retrieve user credentials.  
   Tech Stack: **Reactjs**, **TailwindCSS**, **Nodejs**, **Postgresql**, **Sequelize**
   - [GitHub Repo](https://github.com/kimicasamina/passthesalt-password-manager) | [Live Demo](https://passthesalt-client.onrender.com/)
