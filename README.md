@@ -41,7 +41,7 @@ Here are a few projects I’ve worked on:
 
 - **Passthesalt** –  A password manager app designed to securely store and retrieve user credentials.  
   Tech Stack: **Reactjs**, **TailwindCSS**, **Nodejs**, **Postgresql**, **Sequelize**
-  - [GitHub Repo](https://github.com/kimicasamina/passthesalt-password-manager) | [Live Demo](https://passthesalt-frontend.onrender.com/)
+  - [GitHub Repo](https://github.com/kimicasamina/passthesalt-password-manager) | [Live Demo](https://passthesalt-client.onrender.com/)
 
 - **Bukopy** – A simple blogging platform built with **Django** supporting CRUD operations for blog posts.
   Tech Stack: **Django**, **Postgresql**
