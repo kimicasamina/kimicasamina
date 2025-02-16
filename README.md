@@ -2,13 +2,12 @@
 
 Welcome to my GitHub profile! I'm a developer with a passion for coding and continuous learning.
 
-## About Me
-- **🌱 Currently learning**: 
-  - Frontend Development: Mastering advanced React, TypeScript, and modern web frameworks like Next.js.
-  - CI/CD Workflow: Gaining hands-on experience with GitHub Actions, and Docker for automated deployment pipelines.
-- 💬 Ask me about: JavaScript, React, Backend development
-- 📫 How to reach me: [kimi.casamina@gmail.com](mailto:kimi.casamina@gmail.com)
 
+## 🌱 Currently learning
+- Frontend: Mastering advanced React, TypeScript, and modern web frameworks like Next.js.
+- Backend: Exploring advanced Node.js concepts and enhancing my skills in Django and Laravel
+- DevOps: Gaining hands-on experience with CI/CD workflows, Docker, and automation tools like GitHub Actions to streamline deployment processes.
+  
 ## 🛠️ My Tech Stack
 - **Languages**: JavaScript, TypeScript, Python, PHP, HTML, CSS
 - **CSS Frameworks**: Tailwindcss
@@ -27,26 +26,33 @@ Welcome to my GitHub profile! I'm a developer with a passion for coding and cont
 ### Personal Portfolio Website
 A personal portfolio website to showcase my projects and skills.
 - **Technologies**: React, Tailwindcss
-- **GitHub Repository**: [Portfolio](https://kimberlycasamina.onrender.com/)
+- [Repo](https://kimberlycasamina.onrender.com/)
+- [Live Demo](https://kimberlycasamina.onrender.com/)
 
 ### Passthesalt
-Passthesalt is a secure, full-stack password manager designed to safely store and manage user credentials. It uses advanced encryption to protect passwords and provides a seamless user experience, ensuring passwords are only decrypted when explicitly requested by the user.
+Passthesalt is a secure, full-stack password manager designed to store and manage user credentials safely. It uses EAS encryption to protect passwords.
 - **Technologies**: React, Tailwindcss, Nodejs, Express, Sequelize, Postgresql
-- **GitHub Repository**: [Passthesalt](https://github.com/kimicasamina/passthesalt-password-manager)
+- [Repo](https://github.com/kimicasamina/passthesalt-password-manager)
+- [Live Demo](https://passthesalt-client.onrender.com/)
 
 ### Bukopy
 A simple blogging platform built with Django supporting CRUD operations for blog posts.
 - **Technologies**: Django, Postgresql
-- **GitHub Repository**: [Bukopy](https://github.com/kimicasamina/bukopy-django-blogsite)
+- [Repo](https://github.com/kimicasamina/bukopy-django-blogsite)
+- [Live Demo](https://bukopy-blogsite.onrender.com/)
 
 ### Noted
 A note-taking application that allows users to create and manage notes using a rich text editor powered by the Quill library. The app enables users to write, edit, and save notes with various text formatting options.
 - **Technologies**: React, CSS, Typescript, Nodejs, Express, Sequelize, Postgresql
-- **GitHub Repository**: [Noted](https://github.com/kimicasamina/note-app-ts)
+- [Repo](https://github.com/kimicasamina/note-app-ts)
 
 ## 📈 GitHub Stats
-![Kimica Samina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kimicasamina&show_icons=true&theme=radical)
+![Kimicasamina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kimicasamina&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kimicasamina&layout=compact&theme=radical)
 
+## 📫 How to reach me
 Feel free to explore my projects and reach out if you'd like to collaborate!
+[kimi.casamina@gmail.com](mailto:kimi.casamina@gmail.com)
+
+
