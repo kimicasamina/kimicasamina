@@ -46,6 +46,7 @@ Welcome to my GitHub profile! I'm a developer with a passion for coding and cont
 - Technologies: React, CSS, Typescript, Nodejs, Express, Sequelize, Postgresql
 - Github Repo: [Repo](https://github.com/kimicasamina/note-app-ts)
 
+## 📈 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kimicasamina&layout=compact&theme=radical)
 
