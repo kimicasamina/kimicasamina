@@ -2,12 +2,6 @@
 
 Welcome to my GitHub profile! I'm a developer with a passion for coding and continuous learning.
 
-
-## 🌱 Currently learning
-- Frontend: Mastering advanced React, TypeScript, and modern web frameworks like Next.js.
-- Backend: Exploring advanced Node.js concepts and enhancing my skills in Django and Laravel
-- DevOps: Gaining hands-on experience with CI/CD workflows, Docker, and automation tools like GitHub Actions to streamline deployment processes.
-  
 ## 🛠️ My Tech Stack
 - **Languages**: JavaScript, TypeScript, Python, PHP, HTML, CSS
 - **CSS Frameworks**: Tailwindcss
