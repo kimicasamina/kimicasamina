@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a developer with a passion for coding and cont
 - **CSS Frameworks**: Tailwindcss
 - **CSS Preprocessor**: Sass
 - **Frameworks**: React, Next.js, Node.js, Express.js, Tsoa, Kysely, Django, Laravel, Sequelize, Mongoose
-- **Tools**: Git, Github, Github Actions, VSCode, Postman, Jest, Babel, Webpack, Docker
+- **Tools**: Git, Github, Github Actions, VSCode, Postman, Jest, Babel, Webpack, Docker, Nginx, AWS (ec2, s3)
 - **Databases**: MongoDB, PostgreSQL, MySQL
 
 ## 💻 What I Do
